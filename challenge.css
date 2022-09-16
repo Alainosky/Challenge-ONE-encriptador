@@ -1,0 +1,130 @@
+body {
+margin: 0px;
+padding: 0px;
+
+}
+
+.contenedor{
+margin: auto;
+width: 900px;
+height: 650px;
+padding: 5px;
+
+}
+
+.logo { 
+width: 100%;
+float: left;
+
+}
+
+.izquierda {
+float: left;
+width: 70%;
+height: 70%;
+border-radius: 24px;
+
+}
+
+.derecha {
+float: right;
+width: 30%;
+height: auto;
+border-radius: 32px;
+background: #FFFFFF;    
+}
+.boton-izq {
+float: left;
+width: 70%;
+height: auto;
+border-radius: 25px;
+
+}
+.logoImg {
+margin: 1%;
+float: inherit;
+margin-left: 5%;
+}
+.titulo{
+    float: inherit;
+    margin-left: 25%;
+}
+.text-input{
+    float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 80%;
+    height: 80%;
+    color: #0A3871;
+    font-size: 20px;
+    border: none ;
+    outline: none;
+    background: #F3F5FC;
+}
+#munheco{
+    margin-top: 20%;
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+}
+#texto{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#texto2{
+    float: left;
+    margin-left: 10%;
+    margin-top: auto;
+    color: #0A3871;
+    width: 80%;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+#boton-en{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 10%;
+    background: #0A3871;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+
+}
+#boton-des{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 10%;
+    background:#F3F5FC;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #0A3871;
+}
+#copy{
+    margin-left: 33%;
+    margin-top: 90%;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+    background: #D8dfe8;
+    border-radius: 24px;
+    display: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #0A3871;
+}
